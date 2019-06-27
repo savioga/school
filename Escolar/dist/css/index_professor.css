@@ -1,0 +1,25 @@
+#div1{
+	border: 2px solid red;
+width: 80%;
+padding: 20px
+}
+.a1{
+	color: black;
+
+}
+#span1{
+	color: black;
+}
+#div1:hover{
+	background: #ccc;
+}
+.div2{
+	border: 2px solid blue;
+	padding: 19px;
+	width:14%;
+}
+#fre1{
+	color: black
+	padding: 20px;
+	
+}

@@ -1,0 +1,9 @@
+.tr1{
+	background: #1abc9c;
+}
+.tr2{
+	background: Lavender;
+}
+.tr2:hover{
+	background: #ccc;
+}
